@@ -1,0 +1,129 @@
+_id: 682c049d01e153af98cfaf52
+ate_cod: unipi
+corso_anno: 2
+corso_des_it: FISICA
+corso_des_en: PHYSICS
+corso_cod: '10452'
+cdsCod: WFI-LM
+corso_aa: '2023'
+corso_ccMasterFlg: '0'
+corso_ccRaggrCod: ''
+tipo_corso_cod: LM
+tipo_corso_des_it: Laurea Magistrale
+tipo_corso_des_en: Master's Degree
+dip_cod: '10184'
+dip_des_it: DIPARTIMENTO DI FISICA
+dip_des_en: PHYSICS
+corso_percorso_des_it: INTERAZIONI FONDAMENTALI
+corso_percorso_des_en: INTERAZIONI FONDAMENTALI
+corso_percorso_id: 51380
+corso_percorso_cod: '8'
+des_it: SOLID STATE PHYSICS / FISICA DELLO STATO SOLIDO
+des_en: SOLID STATE PHYSICS
+cod: '51380_686730_71640'
+adCod: 204BB
+aa: '2024'
+ordinamento_aa: 2023
+schemaCod: INT FOND
+schemaId: 8634
+af_percorso_id: '51380'
+af_percorso_cod: '8'
+adPadre: {}
+adFiglie: []
+annoCorsoAnticipo: 1
+statoAttivita: B
+tipoEsaCod: O
+tipoEsaDes_it: Orale
+tipoEsaDes_en: Orale
+valutazione_it: Voto Finale
+valutazione_en: Final grade
+linkTeledidattica: ''
+tipo_ins_cod: ''
+tipo_ins_des_it: ''
+tipo_ins_des_en: ''
+lingua_des_it: Italiano
+lingua_des_en: Italian
+lingua_cod: ita
+periodo_didattico_it: Primo Ciclo Semestrale
+periodo_didattico_en: Primo Ciclo Semestrale
+sede_des_it: Università di Pisa
+sede_des_en: Università di Pisa
+sede_cod: '1059'
+modalita_didattica_cod: C
+modalita_didattica_des_it: Convenzionale
+modalita_didattica_des_en: Conventional
+data_inizio_periodo_didattico: 14/09/2024
+data_fine_periodo_didattico: 11/12/2024
+isPart: false
+isMod: false
+titolari:
+- cod: '033210'
+  hyperlink: []
+  matricola: '033210'
+  des: RODDARO STEFANO
+  aa: '2024'
+  respDidFlg: false
+  titolareFlg: true
+  lezioneFlg: true
+  urlUnifind: ''
+responsabili:
+- cod: '033210'
+  hyperlink: []
+  matricola: '033210'
+  des: RODDARO STEFANO
+  aa: '2024'
+  respDidFlg: 1
+  titolareFlg: false
+  lezioneFlg: true
+  urlUnifind: ''
+docenti:
+- cod: '033210'
+  hyperlink: []
+  matricola: '033210'
+  des: RODDARO STEFANO
+  aa: '2024'
+  respDidFlg: false
+  titolareFlg: true
+  lezioneFlg: true
+  urlUnifind: ''
+- cod: '041475'
+  hyperlink: []
+  matricola: '041475'
+  des: TOMADIN ANDREA
+  aa: '2024'
+  respDidFlg: 0
+  titolareFlg: false
+  lezioneFlg: true
+  urlUnifind: ''
+frequenza_it: Non obbligatoria
+frequenza_en: Not mandatory
+urlSitoWeb: null
+crediti: '9'
+oreMinimeFrequenza: '0'
+durata:
+  totale: 54
+  tipo:
+  - tipo_durata_cod: LEZ
+    tipo_durata_des_it: Lezione
+    tipo_durata_des_en: Lesson
+    valore: 54
+tipo_it: Caratterizzante
+tipo_en: Characterizing
+ambito_it: Microfisico e della struttura della materia
+ambito_en: Microphysics and Material Structure
+ambitoInterclasse_it: ''
+ambitoInterclasse_en: ''
+intercla_tipo_it: ''
+intercla_tipo_en: ''
+metodi_didattici_it: Lezione
+metodi_didattici_en: Lesson
+ssd: FIS/03
+udCod: '1'
+mutuaDa: null
+mutuazioneFlg: 0
+testiTotali: []
+linkMoodle: ''
+dataCreazione: '2025-05-20T05:22:35.094Z'
+dataModifica: '2025-05-20T05:22:35.094Z'
+utenteCreazioneId: 628ce23eb152800018a2757f
+utenteModificaId: 628ce23eb152800018a2757f
